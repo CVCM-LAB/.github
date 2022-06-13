@@ -10,7 +10,7 @@
 - CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving, Hui-Xian Chen, ICME 2022. [Paper][[CODE]](https://github.com/huixiancheng/CENet)
 - 
 
-**Submitted: **
+**Submitted**:
 
 ## 2021
 
