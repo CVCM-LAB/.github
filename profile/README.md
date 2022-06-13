@@ -13,9 +13,7 @@
 - 
 
 **Submitted**:
-- (Under Review)TransRVNet, Hui-Xian Chen,.... [Paper][[Code]](https://github.com/huixiancheng/TransRVNet)
-- (Submitted)Learning to Generate Artistic Character Line Drawing, Cheng-Yu Fang, Xian-Feng Han, Qi Zhong, Shi-Jie Sun, Guo-Qiang Xiao. [[Paper]](https://arxiv.org/abs/2206.02998)[[Code]](https://github.com/cnyvfang/P2LDGAN)
-
+- text
 
 ## 2021
 
