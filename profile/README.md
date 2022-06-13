@@ -9,11 +9,11 @@
 ## 2022
 
 **Accepted**: 
-- CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving, Hui-Xian Chen, ICME 2022. [Paper][[Code]](https://github.com/huixiancheng/CENet)
+- CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving, Hui-Xian Chen,..., ICME 2022. [Paper][[Code]](https://github.com/huixiancheng/CENet)
 - 
 
 **Submitted**:
-- (Under Review)TransRVNet, Hui-Xian Chen. [Paper][[Code]](https://github.com/huixiancheng/TransRVNet)
+- (Under Review)TransRVNet, Hui-Xian Chen,.... [Paper][[Code]](https://github.com/huixiancheng/TransRVNet)
 - (Submitted)Learning to Generate Artistic Character Line Drawing, Cheng-Yu Fang, Xian-Feng Han, Qi Zhong, Shi-Jie Sun, Guo-Qiang Xiao. [Paper][[Code]](https://github.com/cnyvfang/P2LDGAN)
 
 
