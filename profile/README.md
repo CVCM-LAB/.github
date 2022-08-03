@@ -13,7 +13,7 @@
 ## 2022
 
 **Accepted**: 
-- CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving, Hui-Xian Chen, Xian-Feng Han ... , ICME 2022. [Paper][[Code]](https://github.com/huixiancheng/CENet)
+- CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving, Hui-Xian Chen, Xian-Feng Han, Guo-Qiang Xiao , ICME 2022. [Paper][[Code]](https://github.com/huixiancheng/CENet)
 - 3DDACNN: 3D dense attention convolutional neural network for point cloud based object recognition, Xian-Feng Han, Xin-Yi Huang, Shi-Jie Sun, Ming-Jie Wang, Artificial Intelligence Review. [[Paper]](https://link.springer.com/article/10.1007/s10462-022-10165-w)[Code]
 - 3CROSSNet: Cross-Level Cross-Scale Cross-Attention Network for Point Cloud Representation, Xian-Feng Han, Zhang-Yue He, Jia Chen, Guo-Qiang Xiao, IEEE Robotics and Automation Letters. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9699094)[Code]
 
